@@ -1,4 +1,4 @@
-import { useState, useEffect, useCallback, useRef } from "react";
+const { useState, useEffect, useCallback, useRef } = React;
 
 // ─── CONSTANTS ───────────────────────────────────────────────────────────────
 const TOTAL_TILES = 64;
